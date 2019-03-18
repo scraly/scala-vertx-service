@@ -6,7 +6,7 @@ import io.vertx.scala.servicediscovery.{ServiceDiscovery, ServiceDiscoveryOption
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.util.{Failure, Success}
 
-object Calculator {
+object Hello {
 
     val vertx = Vertx.vertx()
 
